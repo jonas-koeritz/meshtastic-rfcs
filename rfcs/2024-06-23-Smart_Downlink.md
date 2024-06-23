@@ -1,6 +1,7 @@
 # Smart Downlink
 
 - Start Date: 2024-06-23
+- RFC PR: [#10](https://github.com/meshtastic/rfcs/pull/10)
 - Affected Components: (e.g., Firmware, Network Management, all clients, etc.)
 
 ## Summary
